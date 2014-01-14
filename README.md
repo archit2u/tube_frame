@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-    <%= raw Frame.embed_url(youtube_or_vimeo_video_url, frame_width, frame_height) %>
+    <%= raw Frame.embed_url("youtube_or_vimeo_video_url", frame_width, frame_height) %>
 
 frame_width and frame_height are optional values with default values of 420 and 315 respectively.
 
