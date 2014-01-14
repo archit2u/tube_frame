@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["archit2u@gmail.com"]
   spec.description   = %q{A gem to get video frame from a youtube or vimeo url.}
   spec.summary       = %q{Youtube or Vimeo Frames.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/archit2u/tube_frame"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
